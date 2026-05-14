@@ -1,4 +1,4 @@
-# Nfe GENERATOR WITH JAVA
+# NFe GENERATOR WITH JAVA
 
 Java project developed for generating and managing Brazilian Electronic Invoices (NF-e), focusing on object-oriented programming concepts, data generation, and invoice simulation.
 
